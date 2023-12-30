@@ -1,16 +1,4 @@
-# sicbo
+# Flutter Sicbo
+As the spiritual successor to my card game tutorial series, I took a stab at creating the popular casino game "Sicbo" in Dart and Flutter. No game engine and no packages (except for Riverpod, of course).
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Video Overview](https://www.youtube.com/watch?v=006uii6Nt6Y)
